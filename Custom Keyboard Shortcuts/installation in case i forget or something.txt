@@ -1,0 +1,6 @@
+put the script in a place where it wont be moved and create a shortcut
+win + r
+type shell:startup
+add a shortcut to startup folder
+???
+profit

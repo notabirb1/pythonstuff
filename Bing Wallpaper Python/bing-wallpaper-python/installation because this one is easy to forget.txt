@@ -1,0 +1,8 @@
+replace the file path in the script with the path to the folder the script is stored in (leave /wallpaperimage.jpg)
+replace all the backslashes (\) in the file path with forward slashes (/)
+set it to run at 8:30 AM, and at user login, in task scheduler
+command to use: "C:\Users\YOURUSER\AppData\Local\Programs\Python\Python310\pythonw.exe" "C:\PATHTOSCRIPT\bing-wallpaper-python\bing-wallpaper-python.py"
+set the starting directory to the folder the script is stored in
+google a better tutorial for task scheduler
+???
+profit
