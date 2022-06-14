@@ -1,0 +1,5 @@
+1. Create a new task in task scheduler to run this script at your preferred time (preferably 8:00 - 10:00 A.M. EDT)
+2. Set the starting directory to the folder you place the script in (and don't move the script around)
+3. Enjoy the task scheduler mouse lag
+4. ???
+5. Profit
