@@ -1,7 +1,0 @@
-put the script in a place where it wont be moved
-create a shortcut for it (pyw "C:\PATHTOYOURSCRIPT")
-win + r
-type shell:startup
-add the shortcut to startup folder
-???
-profit

@@ -1,0 +1,7 @@
+8/21/2022
+Added Setup Guide
+Added Changelog
+Added "Emoticon Shortcuts" - Adds keybinds for certain emoticons and symbols.
+Updated "Custom Shortcuts Python" - Rewritten using code from https://stackoverflow.com/questions/67505554/python-keyboard-module-add-hotkey-is-not-working-after-you-lock-windows-once-he.
+A little bit of reorganization of the file structure.
+Updates "Bing Wallpaper Python" so that it will only run if the time is >8:00 A.M., otherwise it may set the wallpaper to a nonexistent image.

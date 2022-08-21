@@ -1,0 +1,3 @@
+Emoticon Shortcuts - Create shortcut in shell:startup, so it opens on startup
+Keyboard Shortcuts Python - Create shortcut in shell:startup, so it opens on startup
+Bing Wallpaper Python - Create a task in Task Scheduler that runs the script (using pyw) at 8:00 A.M. EDT and on user login. (Make sure to set the working directory to the directory of the script.)
